@@ -1,5 +1,7 @@
 # IGNR
 
+Implementation for our work: Implicit Graphon Neural Representation
+
 
 To run the single graphon learning task, go to folder IGNR, and run:\
 python train_IGNR.py --use-pg 1
