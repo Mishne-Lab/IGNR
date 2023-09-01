@@ -1,6 +1,6 @@
 # IGNR
 
-Implementation for our work: Implicit Graphon Neural Representation
+Implementation for our work: Implicit Graphon Neural Representation, Xia Mishne and Wang, AISTATS 2023
 
 
 To run the single graphon learning task, go to folder IGNR, and run:\
@@ -20,3 +20,16 @@ pot >=0.8.2 \
 cython >= 0.29.32 \
 joblib==0.15.1 \
 einops >=0.6.0 
+
+Citation
+----------
+```
+@inproceedings{xia2023implicit,
+  title={Implicit graphon neural representation},
+  author={Xia, Xinyue and Mishne, Gal and Wang, Yusu},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={10619--10634},
+  year={2023},
+  organization={PMLR}
+}
+```
